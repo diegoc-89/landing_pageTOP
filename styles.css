@@ -92,10 +92,11 @@ ul, .secondary-text {
     font-size: 36px;
     font-style: italic;
     font-weight: lighter;
+    width: 600px;
 }
 
 h4 {
-    align-self: flex-end;
+    text-align: right;
     font-weight: 300px;
 }
 
@@ -105,7 +106,7 @@ h4 {
     margin-top: 70px;
     margin-bottom: 70px;
     border-radius: 5px;
-    width:800px;
+    width:1200px;
     display: flex;
     color:#E5E7EB;
     justify-content: center;
@@ -134,5 +135,5 @@ h4 {
     font-size: 12px;
     margin-left: -8px;
     margin-right: -8px;
-    margin-bottom: -5px;
+    margin-bottom: -8px;
 }
